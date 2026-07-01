@@ -3,7 +3,7 @@
 
 | Domain      | Skills/Tools        | Projects          |
 |-------------|---------------------|-------------------|
-| Cloud | AWS | - [Static Website Deployment](https://github.com/iamankitajagtap/Static-Website) <br> - [Dynamic_Website_Deployment ](https://github.com/iamankitajagtap/Dynamic-Website.git) |
+| Cloud | AWS | -  |
 <!--
 **pranaliritgithub/pranaliritgithub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
