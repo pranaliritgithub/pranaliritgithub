@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I am Ankita Jagtap</h1>
+<h1 align="center">Hi 👋, I am Pranali Patil</h1>
 <p align="center">Aspiring Cloud Engineer | DevOps Engineer | Learning AWS, Terraform & Docker</p>
 
 | Domain      | Skills/Tools        | Projects          |
