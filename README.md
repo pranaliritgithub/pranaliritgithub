@@ -3,7 +3,9 @@
 
 | Domain      | Skills/Tools        | Projects          |
 |-------------|---------------------|-------------------|
-| Cloud | AWS | https://github.com/pranaliritgithub/Cloud-Database-Migration-using-Amazon-RDS.git https://github.com/pranaliritgithub/python-app-hosting-on-aws.git|
+| Cloud | AWS |  |
+| Database | RDS | https://github.com/pranaliritgithub/Cloud-Database-Migration-using-Amazon-RDS.git |
+| Programming Languages | Python | https://github.com/pranaliritgithub/python-app-hosting-on-aws.git |
 <!--
 **pranaliritgithub/pranaliritgithub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
