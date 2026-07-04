@@ -3,7 +3,7 @@
 
 | Domain      | Skills/Tools        | Projects          |
 |-------------|---------------------|-------------------|
-| Cloud | AWS | https://github.com/pranaliritgithub/static-web-application-deployment.git https://github.com/pranaliritgithub/wordpress-infrastructure-on-aws.git https://github.com/pranaliritgithub/aws-microservices-alb-asg.git|
+| Cloud | AWS | https://github.com/pranaliritgithub/static-web-application-deployment.git https://github.com/pranaliritgithub/wordpress-infrastructure-on-aws.git https://github.com/pranaliritgithub/aws-microservices-alb-asg.git https://github.com/pranaliritgithub/Three-tier-Project.git|
 | Web Hosting | Nginx | https://github.com/pranaliritgithub/Static-Website-Deployment-and-Hosting-Using-Nginx.git |
 | Database | RDS | https://github.com/pranaliritgithub/Cloud-Database-Migration-using-Amazon-RDS.git |
 | Programming Languages | Python | https://github.com/pranaliritgithub/python-app-hosting-on-aws.git |
