@@ -7,7 +7,7 @@
 | Web Hosting | Nginx | https://github.com/pranaliritgithub/Static-Website-Deployment-and-Hosting-Using-Nginx.git |
 | Database | RDS | https://github.com/pranaliritgithub/Cloud-Database-Migration-using-Amazon-RDS.git |
 | Programming Languages | Python | https://github.com/pranaliritgithub/python-app-hosting-on-aws.git |
-| Version Control | Git GitHub GitLab | https://github.com/pranaliritgithub/repository-mirroring-github-gitlab.git |
+| Version Control | Git, GitHub, GitLab | https://github.com/pranaliritgithub/repository-mirroring-github-gitlab.git |
 <!--
 **pranaliritgithub/pranaliritgithub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
